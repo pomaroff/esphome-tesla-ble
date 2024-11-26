@@ -1,0 +1,4 @@
+substitutions:
+  board: esp32-c3-devkitm-1
+  variant: ESP32C3
+  flash_size: 4MB
